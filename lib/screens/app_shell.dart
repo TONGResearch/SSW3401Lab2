@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'home_screen.dart';
 
-/// Keeps the selected tab in State; setState rebuilds the visible screen.
 class AppShell extends StatefulWidget {
   const AppShell({super.key});
 
